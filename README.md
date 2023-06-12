@@ -1,2 +1,2 @@
 # backprop
-implementing backpropogation on tensors from scratch
+implementing backpropogation on tensors and an mlp neural network
