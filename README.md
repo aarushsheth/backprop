@@ -1,2 +1,2 @@
 # backprop
-implementing backpropogation on tensors
+implementing backpropogation on tensors from scratch
